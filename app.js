@@ -14,6 +14,7 @@ nameButton.addEventListener('click', () => {
 fontButton.addEventListener('click', () => {
     tag.style.fontFamily = 'monospace';
     console.log ('we clicked the font button');
+    
 })
 
 magicalButton.addEventListener('click', () => {
